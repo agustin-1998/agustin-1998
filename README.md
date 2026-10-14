@@ -1,6 +1,6 @@
 # Agustín Rodriguez
 
-Full Stack Engineer (Vue.js, TypeScript, Laravel/PHP) based in Buenos Aires, Argentina (UTC-3). Almost 5 years shipping production web apps for banking, fintech and a US-based API company. I also build AI agent workflows with Claude Code.
+Senior Full Stack Engineer (Vue.js, TypeScript, Laravel/PHP) based in Buenos Aires, Argentina (UTC-3). Almost 5 years shipping production web apps for banking, fintech and a US-based API company. I also build AI agent workflows with Claude Code.
 
 Most of my work lives in private company repositories, so here is what it looks like.
 
